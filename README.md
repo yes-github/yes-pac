@@ -13,6 +13,8 @@ pip install -U https://github.com/JinnLynn/genpac/archive/dev.zip
 # 卸载
 pip uninstall genpac
 ```
+- 自动从Github同步到[Vercel](https://vercel.com/aboutibms-projects/yes-pac)
+    - https://yes-pac.vercel.app/pac/1709.pac
 
 #### 参考资料
 - [代理自动配置文件（PAC）文件](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file)
